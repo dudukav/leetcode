@@ -1,4 +1,4 @@
 [workspace]
-members = [ "palindrome_number", "roman_to_integer",
+members = [ "longest_common_prefix", "palindrome_number", "roman_to_integer",
     "two_sum",
 ]
