@@ -1,4 +1,4 @@
 [workspace]
-members = [ "palindrome_number",
+members = [ "palindrome_number", "roman_to_integer",
     "two_sum",
 ]
